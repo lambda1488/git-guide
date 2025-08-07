@@ -1,2 +1,2 @@
 print("merge conflict resolving")
-print("1")
+print("2")
